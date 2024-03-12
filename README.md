@@ -1,1 +1,1 @@
-Login and Registraction pages of Sports managments system.
+Our sports management system is designed to streamline the management of sports-related activities, events, and registrations. It offers a user-friendly interface with features for both users and administrators, including login and registration pages. Here's an overview of the system:
